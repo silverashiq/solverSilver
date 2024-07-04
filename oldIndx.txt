@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Solving with Silver</title>
+
+<link rel="stylesheet" href="./main.css">
+
+        <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+        <!-- Animate.css link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+
+    
+</head>
+<body>
+    
+    <!-- menu -->
+<nav class="bg-[#343434] h-[130px]" >
+    <div class="h-[130px] mx-[200px] flex justify-between"  >
+        <div class="flex">
+            <img class="content-center h-[70%] mt-[16px]" src="./assets/Logo.png" alt="SilverAshiq">
+        </div>
+        <div class="flex text-[#D9B592] items-center gap-[40px]">
+            <a href="">Home</a>
+            <a href="">About</a>
+            <a href="">Services</a>
+            <a href="">Gallery</a>
+            <a href="">Contact</a>
+
+        </div>
+
+
+    
+    </div>
+</nav>
+
+<!-- Banner1 section Starts -->
+<section class="flex h-[700px] mx-[200px] justify-between">
+    <div class="flex items-center justify-between">
+        <div class=" animate__animated animate__fadeInLeft">
+                <h1 class="font-serif font-bold text-4xl leading-snug text-[#343434]">Are you looking for a Designer/Developer <br>
+                with stellar skills and experience <br> in Graphics and Websites?
+                </h1>
+                <p class="text-[#343434] text-xl my-[20px]">I am a creative, innovative and intensely focused Graphics and <br>Website Developer with more than 5 years of experience.  <br> Get in touch and let's create something Awesome!</p>
+                <button class=" py-[10px] px-[20px] bg-[#D9B592] font-bold rounded-md text-[#343434]" >Send an Email</button>
+                <button class=" ml-[10px] py-[10px] px-[20px] bg-[#343434] font-bold rounded-md text-[#D9B592]">Book an Appointment</button>
+        </div>
+    </div>
+
+    <div class="animate__animated animate__fadeInRight content-center" >
+        <img class="h-[400px] rounded-3xl " src="./assets/Bannerpic3.jpg" alt="banner">
+    </div>
+</section>
+<!-- Banner1 section Ends -->
+
+
+<!-- Services section Starts -->
+<section class="flex bg-[#f1f0f0] h-[665px]">
+    <div class=" mt-[30px]">
+        <div class="text-center">
+            <h1 class="font-serif font-bold text-4xl text-[#343434] my-[10px]">My Services</h1>
+            <p class="mb-[30px] text-[#343434] text-xl">Please select your required Design for Samples</p>
+        </div>
+
+        <div class="flex mx-[200px] gap-[50px] text-center">
+            <div class="">
+                <img class="rounded-3xl" src="./assets/Brand.jpg" alt="Logo Design">
+                <h4 class="mt-[10px] font-semibold text-[#343434]">Brand Identity</h4>
+                <br>
+                <p>A Brand Identity is made up of what your brand says, what are your values, how you communicate your product, etc.</p>
+
+                
+            </div>
+            <div class="">
+                <img class="rounded-3xl" src="./assets/Brochure.jpg" alt="Trifold">
+                <h4 class="mt-[10px] font-semibold text-[#343434]">Print Media</h4>
+                <br>
+                <p>It is a form of mass media in which it shares the news or pieces of information via the printed form of publications.</p>
+                <h1></h1>
+            </div>
+            <div class="">
+                <img class="rounded-3xl" src="./assets/website.jpg" alt="Website">
+                <h4 class="mt-[10px] font-semibold text-[#343434]">Website Design</h4>
+                <br>
+                <p>Website Design is a process of planning, conceptualization, and implementing the plan for designing a business profile.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Services section Ends -->
+
+
+<!-- Banner2 section Starts -->
+<section class="flex h-[700px] mx-[200px] justify-between">
+    <div class="flex items-center justify-between">
+        <div class=" animate__animated animate__fadeInLeft content-center" >
+            <img class="h-[400px] rounded-3xl mr-[40px]" src="./assets/Bannerpic.jpg" alt="banner">
+        </div>
+
+        <div class=" animate__animated animate__fadeInRight ">
+                <h1 class="font-serif font-bold text-4xl leading-snug text-[#343434]">Why choose me for your Graphics <br> and Website projects ?
+                </h1>
+                <p class="text-[#343434] text-xl my-[20px]">I am looking forward to collaborate with Clients who's objective is perfection! <br> Lifetime Customer Service is my Specialty. I never forget about my customers <br> and guide them  on every step before and after the project has Started or Ended. <br> 100% Customer Satisfaction is my GOAL.</p>
+                <button class=" py-[10px] px-[20px] bg-[#D9B592] font-bold rounded-md text-[#343434]" >Client's Feedback</button>
+
+        </div>
+    </div>
+
+</section>
+<!-- Banner2 section Ends -->
+
+
+<!-- Footer section Starts -->
+<footer class="flex bg-[#343434] h-[80px] items-center justify-center">
+    <p class="text-sm text-white text-center">Copyright © 2024 @SilverAshiq <br> All Rights Reserved.</p>
+    </footer>
+    <!-- Footer section Ends -->
+
+
+</body>
+</html>
